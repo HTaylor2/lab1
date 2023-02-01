@@ -16,7 +16,7 @@ names = new string[4];
 names[0] = "Steve";
 names[1] = "Greg";
 names[2] = "Aneeta";
-names[3] = "Bradley";
+names[3] ="Bradley";
 
 string[] names2 = new[] { "Kate", "Jack", "Rebecca", "Tom" };
 
